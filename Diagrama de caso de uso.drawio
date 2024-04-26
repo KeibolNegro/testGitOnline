@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T13:42:43.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" version="24.3.0" etag="8eQ-Z68w1S5AJko_n8VJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:48:49.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="hlT0emO3mu-ZOTjdmJiV" version="24.3.0" type="github">
   <diagram name="Página-1" id="bA4mtlkLtRClpyPiy1Fn">
-    <mxGraphModel>
+    <mxGraphModel dx="968" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-1" value="Usuario Anónimo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="131" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-2" value="Usuario Registrado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="30" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-5" value="Administrador WEB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="30" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-6" value="Visitar WEB" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="70" height="46.67" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-8" value="Registrarse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="149.99999999999997" width="70" height="46.67" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-9" value="Iniciar Sesiión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="70" height="46.67" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-10" value="Ver los videos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="278.67" width="70" height="46.67" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-11" value="Descargar videos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="334" width="70" height="46.67" as="geometry" />
+        </mxCell>
+        <mxCell id="BFTGh0VkGY1ExixrxZzk-12" value="Cerrar Sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="70" height="46.67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
